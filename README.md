@@ -88,5 +88,6 @@
 ## 🏗️ Architecture
 
 Clean Architecture (Hexagonal)
+Controller → Service → Domain → Repository
 
 
